@@ -1,0 +1,40 @@
+/* COLOR NAME */
+
+/* h1{
+    color:crimson
+} */
+
+/* HEX CODE */
+
+/* h1{
+    color: #b506fa;
+} */
+
+/* RGB VALUE */
+
+/* h1{
+    color: rgb(245, 129, 20);
+} */
+
+/* Background Color */
+
+/* body{
+    background-color: wheat;
+    color: dodgerblue;
+} */
+
+/* div{
+    background-color: wheat;
+    color: rgb(18, 0, 100); size: 24px;
+    padding: 10px;
+} */
+
+/* Opacity in CSS */
+
+img{
+    opacity: 0.5;
+}
+
+h1{
+    color: darkred;
+}
